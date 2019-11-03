@@ -1,0 +1,9 @@
+
+djitellopy/__pycache__/__init__.cpython-36.pyc
+djitellopy/__pycache__/decorators.cpython-36.pyc
+djitellopy/__pycache__/tello.cpython-36.pyc
+ImageProcessing/__pycache__/__init__.cpython-36.pyc
+*.pyc
+*.log
+*.mov
+ImageProcessing/yolov3.weights
